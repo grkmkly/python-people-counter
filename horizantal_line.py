@@ -13,7 +13,7 @@ CONFIDENCE_THRESHOLD = 0.5 # Minimum confidence for detections
 COUNT_WINDOW_WIDTH = 1280  # Width of the counting dashboard window
 COUNT_WINDOW_HEIGHT = 720  # Height of the counting dashboard window
 SAVE_FILE_NAME = "count.txt"
-LOGO_PATH = "logo.jpg"  # Logo dosyası ekleme (varsa)
+LOGO_PATH = "logo.jpg"  # LOGO PATH
 
 # --- COLORS ---
 COLOR_BG = (40, 44, 52)        # Dark Grey 
